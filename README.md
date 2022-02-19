@@ -1,4 +1,4 @@
-# Ectools Aggregator
+# 
 Microservice to handle employee management on a payroll system.
 ## Getting Started
 These instructions will get you a copy of the project up and running
